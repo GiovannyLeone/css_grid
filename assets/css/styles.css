@@ -120,7 +120,7 @@ header {
     border-radius: 15px;
 }
 
-.pub a p {
+.pub p {
     /* display: grid; */
     opacity: 50%;
 }
